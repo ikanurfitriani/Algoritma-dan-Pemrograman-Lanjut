@@ -1,5 +1,5 @@
 # Algoritma dan Pemrograman Lanjut
-Repositori ini memuat arsip kode dari mata kuliah Algoritma dan Pemrograman Lanjut di semester 2. Yang mana di dalamnya terdapat bagian tugas, UTS dan UAS yang telah saya kerjakan.
+This repository contains code archives from Algorithm and Advanced Programming courses in semester 2. In which there is a section on assignments, UTS and UAS that I have done.
 
 ## Author
 [@Ika Nurfitriani](http://github.com/ikanurfitriani)
